@@ -4,8 +4,8 @@ A project to learn and demonstrate Sequelize usage with a simple to-do list API.
 
 ## Prerequisites
 
-- Node.js (version X.X.X or higher)
-- PostgreSQL (version X.X or higher)
+- Node.js
+- PostgreSQL
 
 ## Setup
 
@@ -66,11 +66,3 @@ The server will start on the port specified in your `.env` file (default: 3000).
 - Sequelize
 - PostgreSQL
 - TypeScript
-
-## Contributing
-
-[Include instructions for how others can contribute to your project]
-
-## License
-
-[Specify the license under which your project is released]
